@@ -1,0 +1,144 @@
+Линейный поиск:
+
+Искомый элемент: EngfytbmgjIisMyomjqg
+Найден элемент Junior lieutenant EngfytbmgjIisMyomjqg 63
+на позиции: 5
+Найден элемент Marshal of the Russian Federation EngfytbmgjIisMyomjqg 65
+на позиции: 83
+На линейный поиск в массиве размерности 100 ушло: 6, микросекунд
+
+Искомый элемент: PzxdccfdAlxkwxcLwyaazo
+Найден элемент Colonel general PzxdccfdAlxkwxcLwyaazo 41
+на позиции: 1883
+На линейный поиск в массиве размерности 3125 ушло: 215, микросекунд
+
+Искомый элемент: RyiidcalycNkJsorlek
+Найден элемент Army general RyiidcalycNkJsorlek 83
+на позиции: 5886
+На линейный поиск в массиве размерности 6250 ушло: 247, микросекунд
+
+Искомый элемент: FyktneijxBlcFfpyoinog
+Найден элемент Lieutenant colonel FyktneijxBlcFfpyoinog 94
+на позиции: 5277
+На линейный поиск в массиве размерности 12500 ушло: 461, микросекунд
+
+Искомый элемент: VbruolalqLjTi
+Найден элемент Army general VbruolalqLjTi 17
+на позиции: 11915
+На линейный поиск в массиве размерности 25000 ушло: 965, микросекунд
+
+Искомый элемент: MinuiLuavaimdRkiws
+Найден элемент Colonel general MinuiLuavaimdRkiws 52
+на позиции: 47793
+На линейный поиск в массиве размерности 50000 ушло: 1779, микросекунд
+
+Искомый элемент: PfycswKhWgxnue
+Найден элемент Colonel general PfycswKhWgxnue 100
+на позиции: 38335
+На линейный поиск в массиве размерности 100000 ушло: 3595, микросекунд
+
+Двоичный поиск + сортировка:
+
+Искомый элемент: EngfytbmgjIisMyomjqg
+Найден элемент Marshal of the Russian Federation EngfytbmgjIisMyomjqg 65
+на позицииях с 17 по 18
+На двоичный поиск, вместе с сортировкой, в массиве размерности 100 ушло: 153, микросекунд
+
+Искомый элемент: PzxdccfdAlxkwxcLwyaazo
+Найден элемент Colonel general PzxdccfdAlxkwxcLwyaazo 41
+на позицииях с 1916 по 1916
+На двоичный поиск, вместе с сортировкой, в массиве размерности 3125 ушло: 6493, микросекунд
+
+Искомый элемент: RyiidcalycNkJsorlek
+Найден элемент Army general RyiidcalycNkJsorlek 83
+на позицииях с 4335 по 4335
+На двоичный поиск, вместе с сортировкой, в массиве размерности 6250 ушло: 14226, микросекунд
+
+Искомый элемент: FyktneijxBlcFfpyoinog
+Найден элемент Lieutenant colonel FyktneijxBlcFfpyoinog 94
+на позицииях с 2771 по 2771
+На двоичный поиск, вместе с сортировкой, в массиве размерности 12500 ушло: 31017, микросекунд
+
+Искомый элемент: VbruolalqLjTi
+Найден элемент Army general VbruolalqLjTi 17
+на позицииях с 20205 по 20205
+На двоичный поиск, вместе с сортировкой, в массиве размерности 25000 ушло: 77013, микросекунд
+
+Искомый элемент: MinuiLuavaimdRkiws
+Найден элемент Colonel general MinuiLuavaimdRkiws 52
+на позицииях с 23938 по 23938
+На двоичный поиск, вместе с сортировкой, в массиве размерности 50000 ушло: 144767, микросекунд
+
+Искомый элемент: PfycswKhWgxnue
+Найден элемент Colonel general PfycswKhWgxnue 100
+на позицииях с 58774 по 58774
+На двоичный поиск, вместе с сортировкой, в массиве размерности 100000 ушло: 322213, микросекунд
+
+Двоичный поиск в уже отсортированном массиве:
+
+Искомый элемент: EngfytbmgjIisMyomjqg
+Найден элемент Marshal of the Russian Federation EngfytbmgjIisMyomjqg 65
+на позицииях с 17 по 18
+На двоичный поиск в уже отсортированном массиве размерности 100 ушло: 4, микросекунд
+
+Искомый элемент: PzxdccfdAlxkwxcLwyaazo
+Найден элемент Colonel general PzxdccfdAlxkwxcLwyaazo 41
+на позицииях с 1916 по 1916
+На двоичный поиск в уже отсортированном массиве размерности 3125 ушло: 58, микросекунд
+
+Искомый элемент: RyiidcalycNkJsorlek
+Найден элемент Army general RyiidcalycNkJsorlek 83
+на позицииях с 4335 по 4335
+На двоичный поиск в уже отсортированном массиве размерности 6250 ушло: 7, микросекунд
+
+Искомый элемент: FyktneijxBlcFfpyoinog
+Найден элемент Lieutenant colonel FyktneijxBlcFfpyoinog 94
+на позицииях с 2771 по 2771
+На двоичный поиск в уже отсортированном массиве размерности 12500 ушло: 6, микросекунд
+
+Искомый элемент: VbruolalqLjTi
+Найден элемент Army general VbruolalqLjTi 17
+на позицииях с 20205 по 20205
+На двоичный поиск в уже отсортированном массиве размерности 25000 ушло: 6, микросекунд
+
+Искомый элемент: MinuiLuavaimdRkiws
+Найден элемент Colonel general MinuiLuavaimdRkiws 52
+на позицииях с 23938 по 23938
+На двоичный поиск в уже отсортированном массиве размерности 50000 ушло: 6, микросекунд
+
+Искомый элемент: PfycswKhWgxnue
+Найден элемент Colonel general PfycswKhWgxnue 100
+на позицииях с 58774 по 58774
+На двоичный поиск в уже отсортированном массиве размерности 100000 ушло: 6, микросекунд
+
+Поиск в ассоциативном массиве:
+
+Искомый элемент: EngfytbmgjIisMyomjqg
+Найден элемент: Junior lieutenant EngfytbmgjIisMyomjqg 63
+Найден элемент: Marshal of the Russian Federation EngfytbmgjIisMyomjqg 65
+На поиск в ассоциативном массиве размерности 100 ушло: 2, микросекунд
+
+Искомый элемент: PzxdccfdAlxkwxcLwyaazo
+Найден элемент: Colonel general PzxdccfdAlxkwxcLwyaazo 41
+На поиск в ассоциативном массиве размерности 3125 ушло: 4, микросекунд
+
+Искомый элемент: RyiidcalycNkJsorlek
+Найден элемент: Army general RyiidcalycNkJsorlek 83
+На поиск в ассоциативном массиве размерности 6250 ушло: 2, микросекунд
+
+Искомый элемент: FyktneijxBlcFfpyoinog
+Найден элемент: Lieutenant colonel FyktneijxBlcFfpyoinog 94
+На поиск в ассоциативном массиве размерности 12500 ушло: 3, микросекунд
+
+Искомый элемент: VbruolalqLjTi
+Найден элемент: Army general VbruolalqLjTi 17
+На поиск в ассоциативном массиве размерности 25000 ушло: 2, микросекунд
+
+Искомый элемент: MinuiLuavaimdRkiws
+Найден элемент: Colonel general MinuiLuavaimdRkiws 52
+На поиск в ассоциативном массиве размерности 50000 ушло: 3, микросекунд
+
+Искомый элемент: PfycswKhWgxnue
+Найден элемент: Colonel general PfycswKhWgxnue 100
+На поиск в ассоциативном массиве размерности 100000 ушло: 3, микросекунд
+
